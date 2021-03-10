@@ -1,5 +1,5 @@
 # auto-pause-timer
-A program that presses play/pause keyboard button after 't' minutes
+A python script that presses play/pause keyboard button after 't' minutes
 
 ## First time setup
 pip install pyautogui
